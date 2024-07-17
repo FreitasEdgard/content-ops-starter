@@ -20,7 +20,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'Automação, Cabeamento Estruturado e Soluções Elétricas'
       color: text-primary
       type: Badge
     elementId: ''
