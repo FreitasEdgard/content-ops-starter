@@ -7,7 +7,7 @@ sections:
       text: Transformando Conectividade em Eficiência.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Somos especialistas em criar ambientes conectados, eficientes e seguros.
       Com anos de experiência no mercado, oferecemos soluções personalizadas que
