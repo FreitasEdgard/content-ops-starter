@@ -15,7 +15,7 @@ sections:
       performance e confiabilidade em todos os projetos que realizamos.
     actions: []
     media:
-      url: /images/main-hero.svg
+      url: /images/_c12ee185-3194-4bfc-9b38-710819792b9d.jfif
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
