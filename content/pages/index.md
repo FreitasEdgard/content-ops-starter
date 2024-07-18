@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: Transformando Conectividade em Eficiência.
-      color: text-dark
-      type: TitleBlock
     subtitle: ''
     text: >
       Somos especialistas em criar ambientes conectados, eficientes e seguros.
